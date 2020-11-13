@@ -1,0 +1,15 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Mobile development. Lab2",
+  "main": "main.ts",
+  "scripts": {
+    "run": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "Furman Kostya",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.11.2"
+  }
+}
